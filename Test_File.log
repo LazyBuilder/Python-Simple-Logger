@@ -1,0 +1,5 @@
+2018-02-09 14:48:14,296 DEBUG This is an debug log.
+2018-02-09 14:48:14,296 INFO This is an info log.
+2018-02-09 14:48:14,296 WARNING This is an warning log.
+2018-02-09 14:48:14,296 ERROR This is an error log.
+2018-02-09 14:48:14,298 CRITICAL This is an critical log.
